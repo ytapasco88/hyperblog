@@ -1,6 +1,8 @@
 Hola a todo el mundo
 
-Me llamo Yeison Tapasco, tengo 20 años
-Soy de Londres, Inglaterra
+Me llamo Yeison Tapasco, tengo 30 años
+Soy de Bogota, Colombia
 
-Me gusta Programar en Python y quiero ser Desarrollador Backend en Python
+Me gusta Programar en Python y quiero ser DataScientis y Computer Scientist
+
+Bendiciones para todos
